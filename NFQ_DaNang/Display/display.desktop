@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Display1936x1028
-Comment=This is my display resolution
-Exec=/home/tit/Display/display.sh
-Icon=/home/tit/Display/1.jpeg
-Terminal=false
-Type=Application
-Categories=Utility;Application;
