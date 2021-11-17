@@ -1,0 +1,18 @@
+Truy cap vao wifi cua kios va connect kios:
+
+-- Mat dinh cua Kios:
+	Email: huynhlam14091994@gmail.com
+	pass: 12345678
+-- Doi ma khau:
+	Email: your email
+	Pass: your pass
+-- Add account of eticket: 
+	https://eticket.danang.gov.vn/#/login
+	Them tai khoan va pass cua eticket de cau hinh duong truyen du lieu
+
+	Chú ý nhập đúng pass và tài khoản trên eticket, chỉ một lần. 
+
+	Sau đó thoát ra bằng logout.
+
+
+	

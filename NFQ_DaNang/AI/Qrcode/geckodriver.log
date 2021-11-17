@@ -1,0 +1,300 @@
+1636530857529	geckodriver	INFO	Listening on 127.0.0.1:40127
+1636530857533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48569" "-no-remote" "-profile" "/tmp/rust_mozprofilepoIr2M"
+1636530858528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepoIr2M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48569/devtools/browser/99782db6-72a3-4b74-a1e0-134ac9d93e40
+1636530860058	Marionette	INFO	Listening on port 40061
+1636530860478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636530862614	Marionette	INFO	Stopped listening on port 40061
+1636531061281	geckodriver	INFO	Listening on 127.0.0.1:41451
+1636531061285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56911" "-no-remote" "-profile" "/tmp/rust_mozprofileelmSHi"
+1636531062248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileelmSHi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56911/devtools/browser/cdaeb777-bc17-4098-a5c7-7671a36e6fa6
+1636531063674	Marionette	INFO	Listening on port 33863
+1636531063743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636531066237	Marionette	INFO	Stopped listening on port 33863
+1636535242221	geckodriver	INFO	Listening on 127.0.0.1:57649
+1636535242722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54809" "-no-remote" "-profile" "/tmp/rust_mozprofileEWmhg7"
+1636535244394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEWmhg7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54809/devtools/browser/e850450d-e1c2-4478-8b50-0966266f69de
+1636535246382	Marionette	INFO	Listening on port 45251
+1636535246451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636535248203	Marionette	INFO	Stopped listening on port 45251
+1636535319467	geckodriver	INFO	Listening on 127.0.0.1:39195
+1636535319964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59489" "-no-remote" "-profile" "/tmp/rust_mozprofilefXOck7"
+1636535321983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefXOck7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59489/devtools/browser/a743d5fd-a326-4426-af53-b37477319f5e
+1636535324025	Marionette	INFO	Listening on port 33845
+1636535324097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636535327288	Marionette	INFO	Stopped listening on port 33845
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636535412496	geckodriver	INFO	Listening on 127.0.0.1:40857
+1636535412988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36375" "-no-remote" "-profile" "/tmp/rust_mozprofileH6QWEf"
+1636535415551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH6QWEf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36375/devtools/browser/2fc55b4d-a76b-45a3-8dd8-99531e369975
+1636535418256	Marionette	INFO	Listening on port 44523
+1636535418320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636535420157	Marionette	INFO	Stopped listening on port 44523
+1636535630830	geckodriver	INFO	Listening on 127.0.0.1:58181
+1636535631330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35557" "-no-remote" "-profile" "/tmp/rust_mozprofilezNGlK6"
+1636535632498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezNGlK6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35557/devtools/browser/91a584d9-0acb-43b2-9056-3fff544396e8
+1636535634283	Marionette	INFO	Listening on port 38075
+1636535634368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636535637558	Marionette	INFO	Stopped listening on port 38075
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636535901668	geckodriver	INFO	Listening on 127.0.0.1:33713
+1636535902164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33517" "-no-remote" "-profile" "/tmp/rust_mozprofileDmlfbf"
+1636535903940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDmlfbf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33517/devtools/browser/4963d0bf-1f22-4f8a-abe3-ffb2460f230e
+1636535906092	Marionette	INFO	Listening on port 45533
+1636535906280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636535908109	Marionette	INFO	Stopped listening on port 45533
+1636536650903	geckodriver	INFO	Listening on 127.0.0.1:42877
+1636536651399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54947" "-no-remote" "-profile" "/tmp/rust_mozprofilelxYAHP"
+1636536653364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelxYAHP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54947/devtools/browser/b9293c17-d97b-429f-9ff1-e4ca3057d889
+1636536655422	Marionette	INFO	Listening on port 43837
+1636536655539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636536657734	Marionette	INFO	Stopped listening on port 43837
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636536722212	geckodriver	INFO	Listening on 127.0.0.1:39227
+1636536722699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35305" "-no-remote" "-profile" "/tmp/rust_mozprofile85pA0X"
+1636536724644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile85pA0X/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:35305/devtools/browser/020fddd0-128b-4f04-8c10-a6c6e9972e24
+1636536726743	Marionette	INFO	Listening on port 42391
+1636536726831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636536726969	Marionette	INFO	Stopped listening on port 42391
+1636538222948	geckodriver	INFO	Listening on 127.0.0.1:49139
+1636538222954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51119" "-no-remote" "-profile" "/tmp/rust_mozprofile6iNgja"
+1636538223899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6iNgja/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51119/devtools/browser/550a3a5c-f37f-46f5-95d1-43d1f65ece89
+1636538225442	Marionette	INFO	Listening on port 41679
+1636538225739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636538227790	Marionette	INFO	Stopped listening on port 41679
+1636593946531	geckodriver	INFO	Listening on 127.0.0.1:55575
+1636593947027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39963" "-no-remote" "-profile" "/tmp/rust_mozprofileOniN6T"
+1636593948621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOniN6T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39963/devtools/browser/362fcc67-6ef1-4513-be9e-2c13e662c78b
+1636593950424	Marionette	INFO	Listening on port 35091
+1636593950726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636593953523	Marionette	INFO	Stopped listening on port 35091
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636598260688	geckodriver	INFO	Listening on 127.0.0.1:39615
+1636598261188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49743" "-no-remote" "-profile" "/tmp/rust_mozprofileqn8BwJ"
+1636598262164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqn8BwJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49743/devtools/browser/369a1b85-386d-4d62-aa6d-bc81f903f169
+1636598263753	Marionette	INFO	Listening on port 41493
+1636598263813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636598266826	Marionette	INFO	Stopped listening on port 41493
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636602844926	geckodriver	INFO	Listening on 127.0.0.1:51909
+1636602845424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36761" "-no-remote" "-profile" "/tmp/rust_mozprofilewMKhxb"
+1636602848013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewMKhxb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36761/devtools/browser/1daeba84-af43-437a-9506-566a1c098fb6
+1636602850810	Marionette	INFO	Listening on port 38437
+1636602850868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636602855734	Marionette	INFO	Stopped listening on port 38437
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 950: Error: Connection is not open.
+1636603243251	geckodriver	INFO	Listening on 127.0.0.1:40921
+1636603243736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34027" "-no-remote" "-profile" "/tmp/rust_mozprofileNLIWNS"
+1636603245654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNLIWNS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34027/devtools/browser/a414dfaf-d8d4-4f6c-b47c-4e223a3ad2fb
+1636603247946	Marionette	INFO	Listening on port 46159
+1636603248147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636603250581	Marionette	INFO	Stopped listening on port 46159
+1636604073636	geckodriver	INFO	Listening on 127.0.0.1:40551
+1636604074125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58923" "-no-remote" "-profile" "/tmp/rust_mozprofileKHu3cO"
+1636604076318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKHu3cO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58923/devtools/browser/05a2ad59-f4d6-4179-ba1c-08b01cde5b82
+1636604078778	Marionette	INFO	Listening on port 37117
+1636604078875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636604081153	Marionette	INFO	Stopped listening on port 37117
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636606597556	geckodriver	INFO	Listening on 127.0.0.1:59877
+1636606598010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60161" "-no-remote" "-profile" "/tmp/rust_mozprofilewx2d0C"
+1636606600695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewx2d0C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60161/devtools/browser/c3d73068-9f39-466a-b8c4-15775aa5f14e
+1636606603413	Marionette	INFO	Listening on port 40463
+1636606603476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636606605851	Marionette	INFO	Stopped listening on port 40463
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636606758895	geckodriver	INFO	Listening on 127.0.0.1:46625
+1636606759395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35097" "-no-remote" "-profile" "/tmp/rust_mozprofileH6vYrh"
+1636606761565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH6vYrh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35097/devtools/browser/94fb0e1f-7596-4d1a-abf7-e7e0c112bec1
+1636606763641	Marionette	INFO	Listening on port 36329
+1636606763827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 12: TypeError: document.getElementById(...) is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636608006767	Marionette	INFO	Stopped listening on port 36329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636608199534	geckodriver	INFO	Listening on 127.0.0.1:33119
+1636608200036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59763" "-no-remote" "-profile" "/tmp/rust_mozprofilesDu0mj"
+1636608201261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesDu0mj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59763/devtools/browser/7863b8e7-982f-40fc-b147-d64584f96b88
+1636608203009	Marionette	INFO	Listening on port 44729
+1636608203081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+1636608204780	Marionette	INFO	Stopped listening on port 44729
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636608438251	geckodriver	INFO	Listening on 127.0.0.1:32929
+1636608438256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52011" "-no-remote" "-profile" "/tmp/rust_mozprofilepROsir"
+1636608439176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepROsir/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52011/devtools/browser/e428f298-b732-4b8f-83d2-5756cd4e78fa
+1636608440789	Marionette	INFO	Listening on port 38105
+1636608440895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+1636608443902	Marionette	INFO	Stopped listening on port 38105
+1636608484068	geckodriver	INFO	Listening on 127.0.0.1:56569
+1636608484073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57589" "-no-remote" "-profile" "/tmp/rust_mozprofileDF4kdZ"
+1636608485000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDF4kdZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57589/devtools/browser/7ffe6d0e-29f4-4849-9f10-83e9febdee1a
+1636608486427	Marionette	INFO	Listening on port 33917
+1636608486809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636608489416	Marionette	INFO	Stopped listening on port 33917
+1636608513209	geckodriver	INFO	Listening on 127.0.0.1:33721
+1636608513213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41541" "-no-remote" "-profile" "/tmp/rust_mozprofileiupmqy"
+1636608514257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiupmqy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41541/devtools/browser/2fcd9762-cf4d-4b8c-a55d-a30511c83605
+1636608515727	Marionette	INFO	Listening on port 41307
+1636608516039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636608518679	Marionette	INFO	Stopped listening on port 41307
+1636608579543	geckodriver	INFO	Listening on 127.0.0.1:45227
+1636608580024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36217" "-no-remote" "-profile" "/tmp/rust_mozprofilebhj92Y"
+1636608581962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebhj92Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36217/devtools/browser/42627d8f-38fa-435c-9029-6d995428f0cf
+1636608584055	Marionette	INFO	Listening on port 41301
+1636608584159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636608587203	Marionette	INFO	Stopped listening on port 41301
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636611715783	geckodriver	INFO	Listening on 127.0.0.1:54049
+1636611716270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49217" "-no-remote" "-profile" "/tmp/rust_mozprofilehbKgBv"
+1636611718456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehbKgBv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49217/devtools/browser/593b3f2e-b0f1-4abf-b713-8008506b714b
+1636611720774	Marionette	INFO	Listening on port 43651
+1636611720817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636611723977	Marionette	INFO	Stopped listening on port 43651
+1636611825820	geckodriver	INFO	Listening on 127.0.0.1:46181
+1636611826298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39657" "-no-remote" "-profile" "/tmp/rust_mozprofile6LKHpN"
+1636611829616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6LKHpN/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:39657/devtools/browser/5e4cdd00-cf88-427a-965f-4722b6f7427f
+1636611832296	Marionette	INFO	Listening on port 32809
+1636611832375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636611832705	Marionette	INFO	Stopped listening on port 32809
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636611952166	geckodriver	INFO	Listening on 127.0.0.1:50093
+1636611952652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53337" "-no-remote" "-profile" "/tmp/rust_mozprofilexecLOU"
+1636611954877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexecLOU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53337/devtools/browser/78a667c6-9a72-4df7-a227-b58f51776ea1
+1636611957829	Marionette	INFO	Listening on port 37973
+1636611957940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636611960172	Marionette	INFO	Stopped listening on port 37973
+1636613011251	geckodriver	INFO	Listening on 127.0.0.1:52799
+1636613011755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48827" "-no-remote" "-profile" "/tmp/rust_mozprofileabXLfP"
+1636613013564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileabXLfP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48827/devtools/browser/021cdb77-87c1-4eda-b085-d244e0ecd76d
+1636613015616	Marionette	INFO	Listening on port 37265
+1636613015688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 102: TypeError: document.getElementById(...) is null
+JavaScript error: https://qrcode.danang.gov.vn/kbyt/, line 108: TypeError: document.getElementById(...) is null
+1636613018226	Marionette	INFO	Stopped listening on port 37265
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
